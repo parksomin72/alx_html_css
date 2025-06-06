@@ -4,11 +4,38 @@ main {
     flex-direction: row;
     width: 100%;
 }
+header {
+  background-color: #f7edfc;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  height: 80px;
+}
+header ul, header p{
+  display: inline;
+  margin: 100px;
+}
 
+header ul li {
+    display: inline-block;
+    margin: 30px 50px;
+}
 article {
   flex: 2;
   width: 2/3;
   overflow-y: auto;
+}
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #a300ef;
+  color: #050505;
+  background-color: #f7edfc;
+}
+article table th, article table td {
+  padding: 10px;
+  border: 1px solid #a300ef;
+  text-align: left;
 }
 aside {
   flex: 1;
