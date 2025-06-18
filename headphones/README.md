@@ -6,7 +6,7 @@ This project is a fully responsive webpage built from a Figma design. It replica
 
 ## 📁 Project Overview
 
-- 🔗 **Figma File**: [Access the Design]([200~https://www.figma.com/design/Kj67OUUBSh0vjU3cNuboBe/header?node-id=0-2&t=VCENI9N5g5g3GMFJ-0)
+- 🔗 **Figma File**: [200~https://www.figma.com/design/Kj67OUUBSh0vjU3cNuboBe/header?node-id=0-2&t=VCENI9N5g5g3GMFJ-0]
 - 🎨 **Fonts used**:
   - [Source Sans Pro](https://www.fontsquirrel.com/fonts/source-sans-pro)
   - [Spin Cycle OT](https://www.fontsquirrel.com/fonts/Spin-Cycle-OT)
